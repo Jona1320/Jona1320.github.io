@@ -1,0 +1,78 @@
+.body1 {
+    background-image: url(portada.jpg);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.servicios-button {
+    position: absolute;
+    top: 20%;
+    left: 20%;
+    background-image: url(servicios.jpg);
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-color: rgba(0, 0, 0, 0);
+    width: 23%;
+    height: 18%;
+    border: none;
+    cursor: pointer;
+    border-radius: 50%;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0, 3);
+
+}
+
+.whatsapp-button {
+    position: absolute;
+    top: 86%;
+    left: 20%;
+    background-image: url(whatsapp-icon.png);
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 04%;
+    height: 08%;
+    border: none;
+    cursor: pointer;
+    border-radius: 50%;
+}
+
+.instagram-button {
+    position: absolute;
+    top: 86%;
+    left: 31%;
+    background-image: url(instagram-icon.jpg);
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 04%;
+    height: 08%;
+    border: none;
+    cursor: pointer;
+    border-radius: 50%;
+}
+
+.facebook-button {
+    position: absolute;
+    top: 86%;
+    left: 42%;
+    background-image: url(facebook-icon.jpg);
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 04%;
+    height: 08%;
+    border: none;
+    cursor: pointer;
+    border-radius: 50%;
+}
+
+.servicios-primeraparte {
+    /*background-image: url(portada.jpg);*/
+    width: 50em;
+    height: 20em;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
